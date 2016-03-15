@@ -16,6 +16,7 @@ header {
   border-color: #78FA89;
 }
 .ad {
+  font: Helvetica;
   width: 90%;
   background-color: #89ABE3;
   background-opacity: 0.5;
